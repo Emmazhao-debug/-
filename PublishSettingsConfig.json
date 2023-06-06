@@ -173,7 +173,7 @@
       "UserName": "Administrator",
       "SitePort": 80,
       "AppName": "验证发布设置",
-      "AppStartPage": "",
+      "AppStartPage": "页面1",
       "TakeServeronline": true,
       "PublishRolesToServer": true,
       "PublishUsersToServer": true,
