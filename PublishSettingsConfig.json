@@ -163,5 +163,21 @@
       "Https": true,
       "PublishRolesToServer": true
     }
+  },
+  {
+    "Name": "使用所有的设置",
+    "ApplicationUrl": "http://localhost/验证发布设置",
+    "PublishSettings": {
+      "IsPrivateServer": true,
+      "ServerName": "localhost",
+      "UserName": "Administrator",
+      "SitePort": 80,
+      "AppName": "验证发布设置",
+      "AppStartPage": "",
+      "TakeServeronline": true,
+      "PublishRolesToServer": true,
+      "PublishUsersToServer": true,
+      "PublishOrganizationsToServer": true
+    }
   }
 ]
